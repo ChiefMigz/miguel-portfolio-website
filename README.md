@@ -1,3 +1,9 @@
+# Welcome to the repository of my portfolio website!
+
+This website is made to inform employers about my skills and to socialize with other developers like me.
+The design of the website is made through Tailwind CSS. This allowed me to implement the website design
+within a short amount of time.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

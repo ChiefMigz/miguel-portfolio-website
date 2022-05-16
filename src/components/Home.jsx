@@ -13,14 +13,11 @@ const Home = () => {
                 <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
                 I'm a CS Graduate.
                 </h2>
-                <p className='text-[#8892b0] py-4 max-w-[700px]'>
-                    Lorem ipsum dolor sit amet. Ut nihil atque quo laborum placeat ab nulla voluptas.
-                    Ut voluptate earum non nobis magnam non fugit cupiditate. 
-                    A pariatur voluptatibus qui iure quis non dolor eius ut totam omnis et minus cupiditate!
-                    In iusto earum qui dolorem odio qui ipsa omnis est dolor voluptatem et dolore nobis.
-                    Ut voluptate consequatur est error minima et reiciendis soluta vel laborum praesentium ab expedita molestiae.
-                    Non velit tempore et impedit voluptatem in perspiciatis amet et similique nobis ab facere galisum aut voluptas
-                    officiis. Sed doloribus alias aut consectetur ratione sit voluptatibus obcaecati et dicta sequi.
+                <p className='text-[#8892b0] py-4 max-w-[700px] first-letter:text-5xl'> Hello there! Welcome to my portfolio
+                    wesbite where I will be featuring projects that I think is interesting and worthwhile to check. Feel free
+                    to send me a message about career opportunities, inquire about my skills or work, collaborate on projects,
+                    or just to socialize! Please do look out for my future projects on my <a href="https://github.com/ChiefMigz" className='underline'>
+                        GitHub</a> account. In the near future, I may feature my most interesting projects on this website.
                 </p>
                 <div>
                     <Link to='skills' smooth={true} duration={500}>
