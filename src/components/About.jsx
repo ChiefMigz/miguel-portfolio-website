@@ -12,17 +12,14 @@ const About = () => {
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
             <div className='sm:text-right text-4xl font-bold'>
-              <p>Hi, I'm Miguel. Please take a look around.</p>
+              <p>Hi, I'm Miguel. Please  feel free to take a look around.</p>
             </div>
             <div>
-              <p> Lorem ipsum dolor sit amet. Ut nihil atque quo laborum placeat ab nulla voluptas.
-                Ut voluptate earum non nobis magnam non fugit cupiditate. 
-                A pariatur voluptatibus qui iure quis non dolor eius ut totam omnis et minus cupiditate!
-                In iusto earum qui dolorem odio qui ipsa omnis est dolor voluptatem et dolore nobis.
-                Ut voluptate consequatur est error minima et reiciendis soluta vel laborum praesentium ab
-                expedita molestiae. Non velit tempore et impedit voluptatem in perspiciatis amet et similique
-                nobis ab facere galisum aut voluptas officiis. Sed doloribus alias aut consectetur ratione sit
-                voluptatibus obcaecati et dicta sequi.</p>  
+              <p>I am a fresh Diploma in Computer Science graduate from Douglas College. I am profoundly
+                interested on developing business solutions software, designing and building websites. I usually play games, watch
+                movies or code during my spare time at home. I have spent 2 semesters at my college helping instructors deliver
+                programming labs in Python or C++ by assisting and helping students understand coding using my perspective as a Computer 
+                Science student.</p>  
             </div>
           </div>
       </div>
