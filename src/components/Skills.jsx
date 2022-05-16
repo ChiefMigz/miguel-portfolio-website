@@ -1,5 +1,5 @@
 import C from '../assets/c.png';
-import CPP from '../assets/c++.png';
+import CPP from '../assets/cpp.png';
 import Python from '../assets/python.png';
 import QT from '../assets/qt.png';
 import DJango from '../assets/django.png';

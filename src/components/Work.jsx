@@ -14,7 +14,7 @@ const Work = () => {
                 <div className='grid sm:grid-cols-2 py-[-40px] md:grid-cols-3 gap-4 bg-[#0a192f]'>
                     {/* Item 1 */}
                     <div 
-                        style={{backgroundImage: `url(${WorkImg})`}}
+                        style={{backgroundImage: `require(${WorkImg})`}}
                         className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                         
                         {/* Hover Effects */}
@@ -39,7 +39,7 @@ const Work = () => {
 
                     {/* Item 1 */}
                     <div 
-                        style={{backgroundImage: `url(${WorkImg})`}}
+                        style={{backgroundImage: `require(${WorkImg})`}}
                         className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                         
                         {/* Hover Effects */}
@@ -64,7 +64,7 @@ const Work = () => {
 
                     {/* Item 1 */}
                     <div 
-                        style={{backgroundImage: `url(${WorkImg})`}}
+                        style={{backgroundImage: `require(${WorkImg})`}}
                         className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                         
                         {/* Hover Effects */}
