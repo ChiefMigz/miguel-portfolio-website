@@ -14,7 +14,7 @@ const Experience = () => {
                   </div>
                   {/* Text */}
                   <div className="px-4 py-1 w-[70%]">
-                    <h4 className="uppercase font-bold text-pink-600">Coding Instructor</h4>
+                    <h4 className="uppercase font-bold text-pink-600 pb-2">Coding Instructor</h4>
                     <p>
                       <li>Learn the CREATE curriculum while the centre is less busy</li>
                       <li>Teach computer programming to kids of early age through stimulating STEM and game-based programming activities</li>
@@ -34,10 +34,10 @@ const Experience = () => {
                   </div>
                   {/* Text */}
                   <div className="px-4 py-1 w-[70%]">
-                    <h4 className="uppercase font-bold text-pink-600">Student Assistant, Computer Lab (Computer Science)</h4>
+                    <h4 className="uppercase font-bold text-pink-600 pb-2">Student Assistant, Computer Lab (Computer Science)</h4>
                     <p>
-                      <li>Assisted/Assisting several courses in Computing Science program: Python, C++ Programming 1, C++ Programming 2 and Game Development 1</li>
-                      <li>THelped professors facilitate learning to students in labs and activities through peer guidance</li>
+                      <li>Assisted/Assisting several courses in Computing Science program: Python Programming, C++ Programming, C++ Object-Oriented Programming and C++ Game Development</li>
+                      <li>Helped professors facilitate learning to students in labs and activities through peer guidance</li>
                       <li>Assist students with technical problems or setting up their devices for programming</li>
                       <li>Oversaw participation of students in class, then tabulated results in an Excel workbook that encompasses the class for the entire semester</li>
                     </p>
