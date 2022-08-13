@@ -9,7 +9,7 @@ const Experience = () => {
                 <div className="flex md:flex-row flex-col mb-[50px] last:mb-0 w-full py-20">
                   {/* Job year */}
                   <div className="md:w-[20%] w-full">
-                    <h5 className="text-2xl">2022 - 2022</h5>
+                    <h5 className="text-2xl">Feb 2022 - Aug 2022</h5>
                     <h5 className="uppercase font-bold text-[#8892b0] py-4">Advent Academic Services Ltd.<br/>(Code Ninjas, Surrey)</h5>
                   </div>
                   {/* Text */}
@@ -29,7 +29,7 @@ const Experience = () => {
                 <div className="flex md:flex-row flex-col mb-[50px] last:mb-0 w-full py-4">
                   {/* Job year */}
                   <div className="md:w-[20%] w-full">
-                    <h5 className="text-2xl">2021 - 2022</h5>
+                    <h5 className="text-2xl">Oct 2021 - May 2022</h5>
                     <h5 className="uppercase font-bold text-[#8892b0] py-4">Douglas College,<br/>New Westminster</h5>
                   </div>
                   {/* Text */}
