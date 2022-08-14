@@ -7,7 +7,7 @@ const Work = () => {
 
     const WebDesignImg = require('../assets/web-design-img.png')
     const PongGameImg = require('../assets/pong-img.png')
-    const ThisWebsiteImg = require('../assets/this-website-img.jpeg')
+    const ThisWebsiteImg = require('../assets/this-website-img.png')
     return ( 
         <div name='work' className='w-full h-full bg-[#0a192f] text-gray-300 my-[100px]'>
             {/* Game Demo */}
