@@ -16,7 +16,7 @@ const Home = () => {
                 <p className='text-[#8892b0] py-4 max-w-[700px] first-letter:text-5xl'> Hello there! Welcome to my portfolio
                     wesbite where I will be featuring projects that I think is interesting and worthwhile to check. Feel free
                     to send me a message about career opportunities, inquire about my skills or work, collaborate on projects,
-                    or just to socialize! Please do look out for my future projects on my <a href="https://github.com/ChiefMigz" className='underline'>
+                    or just to socialize! Please do look out for my future projects on my <a href='https://github.com/ChiefMigz' className='underline'>
                         GitHub</a> account. In the near future, I may feature my most interesting projects on this website.
                 </p>
                 <div>

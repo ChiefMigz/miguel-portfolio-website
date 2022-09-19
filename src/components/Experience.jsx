@@ -6,16 +6,16 @@ const Experience = () => {
                     <p className='text-4xl font-bold inline border-b-4 border-pink-600'>Experience</p>
                 </div>
                 {/* Job Experience Box */}
-                <div className="flex md:flex-row flex-col mb-[50px] last:mb-0 w-full py-20">
+                <div className='flex md:flex-row flex-col mb-[50px] last:mb-0 w-full py-20'>
                   {/* Job year */}
-                  <div className="md:w-[20%] w-full">
-                    <h5 className="text-2xl">Feb 2022 - Aug 2022</h5>
-                    <h5 className="uppercase font-bold text-[#8892b0] py-4">Advent Academic Services Ltd.<br/>(Code Ninjas, Surrey)</h5>
+                  <div className='md:w-[20%] w-full'>
+                    <h5 className='text-2xl'>Feb 2022 - Aug 2022</h5>
+                    <h5 className='uppercase font-bold text-[#8892b0] py-4'>Advent Academic Services Ltd.<br/>(Code Ninjas, Surrey)</h5>
                   </div>
                   {/* Text */}
-                  <div className="py-1 md:w-[80%] md:px-8 w-full justify-between">
-                    <h4 className="uppercase font-bold text-pink-600 text-lg pb-2 md:w-[104%]">Coding Instructor</h4>
-                    <p className="md:w-[104%]">
+                  <div className='py-1 md:w-[80%] md:px-8 w-full justify-between'>
+                    <h4 className='uppercase font-bold text-pink-600 text-lg pb-2 md:w-[104%]'>Coding Instructor</h4>
+                    <p className='md:w-[104%]'>
                       <li>Learn the CREATE curriculum while the centre is less busy</li>
                       <li>Teach computer programming to kids of early age through stimulating STEM and game-based programming activities</li>
                       <li>Grade and assess students based on activities submitted</li>
@@ -26,16 +26,16 @@ const Experience = () => {
                 </div>
 
                 {/* Job Experience Box */}
-                <div className="flex md:flex-row flex-col mb-[50px] last:mb-0 w-full py-4">
+                <div className='flex md:flex-row flex-col mb-[50px] last:mb-0 w-full py-4'>
                   {/* Job year */}
-                  <div className="md:w-[20%] w-full">
-                    <h5 className="text-2xl">Oct 2021 - May 2022</h5>
-                    <h5 className="uppercase font-bold text-[#8892b0] py-4">Douglas College,<br/>New Westminster</h5>
+                  <div className='md:w-[20%] w-full'>
+                    <h5 className='text-2xl'>Oct 2021 - May 2022</h5>
+                    <h5 className='uppercase font-bold text-[#8892b0] py-4'>Douglas College,<br/>New Westminster</h5>
                   </div>
                   {/* Text */}
-                  <div className="py-1 md:w-[80%] md:px-8 w-full justify-between">
-                    <h4 className="uppercase font-bold text-pink-600 text-lg pb-2 md:w-[104%]">Student Assistant, Computer Lab (Computer Science)</h4>
-                    <p className="md:w-[104%]">
+                  <div className='py-1 md:w-[80%] md:px-8 w-full justify-between'>
+                    <h4 className='uppercase font-bold text-pink-600 text-lg pb-2 md:w-[104%]'>Student Assistant, Computer Lab (Computer Science)</h4>
+                    <p className='md:w-[104%]'>
                       <li>Assisted/Assisting several courses in Computing Science program: Python Programming, C++ Programming, C++ Object-Oriented Programming and C++ Game Development</li>
                       <li>Helped professors facilitate learning to students in labs and activities through peer guidance</li>
                       <li>Assist students with technical problems or setting up their devices for programming</li>

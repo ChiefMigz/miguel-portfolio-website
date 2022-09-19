@@ -25,62 +25,62 @@ const Skills = () => {
                 <div className='w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8'>
 
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto' src={C} alt="C programming icon" />
+                        <img className='w-20 mx-auto' src={C} alt='C programming icon' />
                         <p className='my-4'>C</p>
                     </div>
 
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto' src={CPP} alt="C++ programming icon" />
+                        <img className='w-20 mx-auto' src={CPP} alt='C++ programming icon' />
                         <p className='my-4'>C++</p>
                     </div>
                     
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto' src={QT} alt="QT" />
+                        <img className='w-20 mx-auto' src={QT} alt='QT' />
                         <p className='my-4'>QT</p>
                     </div>
 
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto' src={Python} alt="Python programming icon" />
+                        <img className='w-20 mx-auto' src={Python} alt='Python programming icon' />
                         <p className='my-4'>Python</p>
                     </div>
 
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto' src={HTML} alt="HTML icon" />
+                        <img className='w-20 mx-auto' src={HTML} alt='HTML icon' />
                         <p className='my-4'>HTML</p>
                     </div>
 
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto' src={CSS} alt="CSS icon" />
+                        <img className='w-20 mx-auto' src={CSS} alt='CSS icon' />
                         <p className='my-4'>CSS</p>
                     </div>
 
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto' src={JavaScript} alt="Javascript icon" />
+                        <img className='w-20 mx-auto' src={JavaScript} alt='Javascript icon' />
                         <p className='my-4'>JavaScript</p>
                     </div>
 
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto' src={DJango} alt="Django icon" />
+                        <img className='w-20 mx-auto' src={DJango} alt='Django icon' />
                         <p className='my-4'>Django</p>
                     </div>
 
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto' src={ReactJS} alt="React icon" />
+                        <img className='w-20 mx-auto' src={ReactJS} alt='React icon' />
                         <p className='my-4'>React</p>
                     </div>
 
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto' src={Tailwind} alt="Tailwind icon" />
+                        <img className='w-20 mx-auto' src={Tailwind} alt='Tailwind icon' />
                         <p className='my-4'>Tailwind</p>
                     </div>
 
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto' src={Github} alt="GitHub icon" />
+                        <img className='w-20 mx-auto' src={Github} alt='GitHub icon' />
                         <p className='my-4'>GitHub</p>
                     </div>
 
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto' src={Figma} alt="Figma Icon" />
+                        <img className='w-20 mx-auto' src={Figma} alt='Figma Icon' />
                         <p className='my-4'>Figma</p>
                     </div>
                 </div>
